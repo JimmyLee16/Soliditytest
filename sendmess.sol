@@ -12,3 +12,4 @@ contract MessageContract {
         return message;
     }
 }
+/
